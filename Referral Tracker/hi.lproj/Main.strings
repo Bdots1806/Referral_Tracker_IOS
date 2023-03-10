@@ -1,0 +1,118 @@
+
+/* Class = "UILabel"; text = "Label2"; ObjectID = "1hC-mt-Ih6"; */
+"1hC-mt-Ih6.text" = "कीमत";
+
+/* Class = "UIButton"; configuration.title = "Track"; ObjectID = "2H9-Bv-7Iz"; */
+"2H9-Bv-7Iz.configuration.title" = "ट्रैक";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "2H9-Bv-7Iz"; */
+"2H9-Bv-7Iz.normalTitle" = "ट्रैक";
+
+/* Class = "UILabel"; text = "username"; ObjectID = "6AP-d3-Mj3"; */
+"6AP-d3-Mj3.text" = "उपयोगकर्ता नाम";
+
+/* Class = "UILabel"; text = "Item Name"; ObjectID = "8mx-DU-KVg"; */
+"8mx-DU-KVg.text" = "वस्तु का नाम";
+
+/* Class = "UIBarButtonItem"; title = "Show"; ObjectID = "B6Q-4N-gpk"; */
+"B6Q-4N-gpk.title" = "प्रदर्शन";
+
+/* Class = "UILabel"; text = "password"; ObjectID = "CZy-OY-BzE"; */
+"CZy-OY-BzE.text" = "पासवर्ड";
+
+/* Class = "UILabel"; text = "Profile Info"; ObjectID = "D83-gm-mob"; */
+"D83-gm-mob.text" = "प्रोफ़ाइल जानकारी";
+
+/* Class = "UILabel"; text = "Profile Info"; ObjectID = "Fwm-rK-iFM"; */
+"Fwm-rK-iFM.text" = "प्रोफ़ाइल जानकारी";
+
+/* Class = "UITabBarItem"; title = "Login"; ObjectID = "Hu5-Uo-VYI"; */
+"Hu5-Uo-VYI.title" = "लॉग इन";
+
+/* Class = "UINavigationItem"; title = "Shop"; ObjectID = "IOD-fX-f3s"; */
+"IOD-fX-f3s.title" = "दुकान";
+
+/* Class = "UINavigationItem"; title = "Dashboard"; ObjectID = "IbZ-8q-bJ4"; */
+"IbZ-8q-bJ4.title" = "डैशबोर्ड";
+
+/* Class = "UILabel"; text = "Referral"; ObjectID = "KFu-e1-htC"; */
+"KFu-e1-htC.text" = "रेफ़रल";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Kmq-jz-GxI"; */
+"Kmq-jz-GxI.text" = "लेबल";
+
+/* Class = "UINavigationItem"; title = "Track Order"; ObjectID = "LLP-31-4tk"; */
+"LLP-31-4tk.title" = "आदेश ट्रैकिंग";
+
+/* Class = "UILabel"; text = "Username"; ObjectID = "M9Y-DU-tLJ"; */
+"M9Y-DU-tLJ.text" = "उपयोगकर्ता नाम";
+
+/* Class = "UITabBarItem"; title = "List View"; ObjectID = "NFI-Fc-b94"; */
+"NFI-Fc-b94.title" = "लिस्ट व्यू";
+
+/* Class = "UIButton"; configuration.title = "Register"; ObjectID = "NnQ-eb-u2W"; */
+"NnQ-eb-u2W.configuration.title" = "रजिस्टर";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "NnQ-eb-u2W"; */
+"NnQ-eb-u2W.normalTitle" = "रजिस्टर";
+
+/* Class = "UILabel"; text = "password"; ObjectID = "NqP-Bt-tgi"; */
+"NqP-Bt-tgi.text" = "पासवर्ड";
+
+/* Class = "UILabel"; text = "Item Price"; ObjectID = "PDM-fJ-WyJ"; */
+"PDM-fJ-WyJ.text" = "सामान की क़ीमत";
+
+/* Class = "UITabBarItem"; title = "Grid View"; ObjectID = "PpF-HV-q26"; */
+"PpF-HV-q26.title" = "संग्रह व्";
+
+/* Class = "UIButton"; configuration.title = "Shop"; ObjectID = "QBJ-A0-TAd"; */
+"QBJ-A0-TAd.configuration.title" = "दुकान";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "QBJ-A0-TAd"; */
+"QBJ-A0-TAd.normalTitle" = "दुकान";
+
+/* Class = "UILabel"; text = "Your Refferal code:"; ObjectID = "R74-s1-dHy"; */
+"R74-s1-dHy.text" = "आपका रेफरल कोड:";
+
+/* Class = "UILabel"; text = "Your Points"; ObjectID = "S6J-Yw-IZ8"; */
+"S6J-Yw-IZ8.text" = "आपके अंक:";
+
+/* Class = "UITabBarItem"; title = "Register"; ObjectID = "SZD-S0-7Zv"; */
+"SZD-S0-7Zv.title" = "रजिस्टर";
+
+/* Class = "UIButton"; configuration.title = "Log out"; ObjectID = "Tvz-F4-uDF"; */
+"Tvz-F4-uDF.configuration.title" = "लॉग आउट";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Tvz-F4-uDF"; */
+"Tvz-F4-uDF.normalTitle" = "लॉग आउट";
+
+/* Class = "UILabel"; text = "username"; ObjectID = "ZXb-Kc-Tgw"; */
+"ZXb-Kc-Tgw.text" = "उपयोगकर्ता नाम";
+
+/* Class = "UIBarButtonItem"; title = "show"; ObjectID = "cu7-oE-7yx"; */
+"cu7-oE-7yx.title" = "प्रदर्शन";
+
+/* Class = "UITabBarItem"; title = "Login"; ObjectID = "ega-P6-xsA"; */
+"ega-P6-xsA.title" = "लॉग इन";
+
+/* Class = "UILabel"; text = "C Password"; ObjectID = "fYZ-uI-uKb"; */
+"fYZ-uI-uKb.text" = "सी पासवर्ड";
+
+/* Class = "UINavigationItem"; title = "Shop"; ObjectID = "fdL-nc-Qle"; */
+"fdL-nc-Qle.title" = "दुकान";
+
+/* Class = "UIButton"; configuration.title = "Login"; ObjectID = "rvp-ab-Zzk"; */
+"rvp-ab-Zzk.configuration.title" = "लॉग इन";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "rvp-ab-Zzk"; */
+"rvp-ab-Zzk.normalTitle" = "लॉग इन";
+
+/* Class = "UILabel"; text = "XXX"; ObjectID = "sHu-0M-8Cm"; */
+"sHu-0M-8Cm.text" = "XXX";
+
+/* Class = "UILabel"; text = "code"; ObjectID = "sw3-O2-pb4"; */
+"sw3-O2-pb4.text" = "कोड";
+
+
+/* Class = "UIBarButtonItem"; title = "show"; ObjectID = "vwK-Ab-6nv"; */
+"vwK-Ab-6nv.title" = "प्रदर्शन";

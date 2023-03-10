@@ -1,0 +1,43 @@
+{"root": {
+    "pics": [
+    {
+        "id": 1,
+        "title": "Tshirt1",
+        "url": "https://live.staticflickr.com/4862/31684383917_780236509d_d.jpg",
+        "price": "Price: 150 points"
+    },
+    {
+        "id": 2,
+        "title": "Tshirt2",
+        "url": "https://live.staticflickr.com/2324/2062372523_50e99a5359_c_d.jpg",
+        "price": "Price: 180 points"
+    },
+    {
+        "id": 3,
+        "title": "Cap",
+        "url": "https://live.staticflickr.com/3844/15207814166_f09296ca6a_d.jpg",
+        "price": "Price: 200 points"
+    },
+    {
+        "id": 4,
+        "title": "Jacket",
+        "url": "https://live.staticflickr.com/8084/8312561831_6a43ed47fc_c_d.jpg",
+        "price": "Price: 320 points"
+    },
+    
+    {
+        "id": 5,
+        "title": "Shoes1",
+        "url": "https://live.staticflickr.com/6076/6106715534_6f268c7750_c_d.jpg",
+        "price": "Price: 420 points"
+    },
+    {
+        "id": 6,
+        "title": "Shoes2",
+        "url": "https://live.staticflickr.com/3865/14875414463_341c3e394f_d.jpg",
+        "price": "Price: 450 points"
+    }
+  ]
+}
+}
+
